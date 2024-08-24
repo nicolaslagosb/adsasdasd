@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+openai==0.27.0
+pydantic
+python-dotenv
+requests
+streamlit
+modal-client
